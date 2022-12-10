@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+    color:white;
+    padding-left: 10px;
+}
+.text{
+margin-top: 50px;
+word-spacing: 1px;
+}
+.box{
+    border: 1px solid white;
+    border-radius: 5px;
+   width:fit-content;
+   padding: 20px;
+   word-spacing: 15px;
+   margin-bottom: 20px;
+   }
+   .list{
+    padding: 15px;
+    
+   }
+button{
+    background-color: white;
+    color:black;
+   Margin:15px;
+   padding:10px;
+   padding-left: 40px;
+   padding-right: 40px;
+}
